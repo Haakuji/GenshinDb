@@ -5926,23 +5926,23 @@
   "monsters": [
     {
       "key": "Abyss Herald: Wicked Torrents",
-      "name": "Abyss Herald: Wicked Torrents"
+      "name": "Emisario del Abismo: Rápidos Malignos"
     },
     {
       "key": "Abyss Lector: Violet Lightning",
-      "name": "Abyss Lector: Violet Lightning"
+      "name": "Sacerdote del Abismo: Rayo Violeta"
     },
     {
       "key": "Anemo Hypostasis",
-      "name": "Anemo Hypostasis"
+      "name": "Hipotasis Anemo"
     },
     {
       "key": "Anemo Samachurl",
-      "name": "Anemo Samachurl"
+      "name": "Samachurl Anemo"
     },
     {
       "key": "Anemo Slime",
-      "name": "Anemo Slime"
+      "name": "Slime Anemo"
     },
     {
       "key": "Azhdaha",
@@ -5950,7 +5950,7 @@
     },
     {
       "key": "Blazing Axe Mitachurl",
-      "name": "Blazing Axe Mitachurl"
+      "name": "Mitachurl Con Hacha de Fuego"
     },
     {
       "key": "Childe",
@@ -5958,83 +5958,83 @@
     },
     {
       "key": "Cryo Abyss Mage",
-      "name": "Cryo Abyss Mage"
+      "name": "Mago del Abismo Cryo"
     },
     {
       "key": "Cryo Cicin",
-      "name": "Cryo Cicin"
+      "name": "Cicin Cryo"
     },
     {
       "key": "Cryo Hilichurl Grenadier",
-      "name": "Cryo Hilichurl Grenadier"
+      "name": "Hilichurl Granadero Cryo"
     },
     {
       "key": "Cryo Hilichurl Shooter",
-      "name": "Cryo Hilichurl Shooter"
+      "name": "Hilichurl Ballestero Cryo"
     },
     {
       "key": "Cryo Hypostasis",
-      "name": "Cryo Hypostasis"
+      "name": "Hipostasis Cryo"
     },
     {
       "key": "Cryo Regisvine",
-      "name": "Cryo Regisvine"
+      "name": "Regisvid Cryo"
     },
     {
       "key": "Cryo Samachurl",
-      "name": "Cryo Samachurl"
+      "name": "Samachurl Cryo"
     },
     {
       "key": "Cryo Slime",
-      "name": "Cryo Slime"
+      "name": "Slime Cryo"
     },
     {
       "key": "Cryo Whopperflower",
-      "name": "Cryo Whopperflower"
+      "name": "Megaflora Cryo"
     },
     {
       "key": "Dendro Samachurl",
-      "name": "Dendro Samachurl"
+      "name": "Samachurl Dendro"
     },
     {
       "key": "Dendro Slime",
-      "name": "Dendro Slime"
+      "name": "Slime Dendro"
     },
     {
       "key": "Electro Cicin",
-      "name": "Electro Cicin"
+      "name": "Cicin Electro"
     },
     {
       "key": "Electro Hilichurl Shooter",
-      "name": "Electro Hilichurl Shooter"
+      "name": "Hilichurl Ballestero Electro"
     },
     {
       "key": "Electro Hypostasis",
-      "name": "Electro Hypostasis"
+      "name": "Hipostasis Electro"
     },
     {
       "key": "Electro Slime",
-      "name": "Electro Slime"
+      "name": "Slime Electro"
     },
     {
       "key": "Eye of the Storm",
-      "name": "Eye of the Storm"
+      "name": "Ojo de la Tormenta"
     },
     {
       "key": "Fatui Cryo Cicin Mage",
-      "name": "Fatui Cryo Cicin Mage"
+      "name": "Maga del Cicin Cryo"
     },
     {
       "key": "Fatui Electro Cicin Mage",
-      "name": "Fatui Electro Cicin Mage"
+      "name": "Maga del Cicin Electro"
     },
     {
       "key": "Fatui Pyro Agent",
-      "name": "Fatui Pyro Agent"
+      "name": "Recaudador Fatui Pyro"
     },
     {
       "key": "Fatui Skirmisher - Anemoboxer Vanguard",
-      "name": "Fatui Skirmisher - Anemoboxer Vanguard"
+      "name": "Soldado Fatui - Boxeador Anemo de Vanguardia"
     },
     {
       "key": "Fatui Skirmisher - Cryogunner Legionnaire",
@@ -6042,19 +6042,19 @@
     },
     {
       "key": "Fatui Skirmisher - Electrohammer Vanguard",
-      "name": "Fatui Skirmisher - Electrohammer Vanguard"
+      "name": "Soldado Fatui - Electromartillador de Vanguardia"
     },
     {
       "key": "Fatui Skirmisher - Geochanter Bracer",
-      "name": "Fatui Skirmisher - Geochanter Bracer"
+      "name": "Soldado Fatui - Guerrillero Geo"
     },
     {
       "key": "Fatui Skirmisher - Hydrogunner Legionnaire",
-      "name": "Fatui Skirmisher - Hydrogunner Legionnaire"
+      "name": "Soldado Fatui - Guardia con Cañón Hydro"
     },
     {
       "key": "Fatui Skirmisher - Pyroslinger Bracer",
-      "name": "Fatui Skirmisher - Pyroslinger Bracer"
+      "name": "Soldado Fatui - Guerrillero con Cañón Pyro"
     },
     {
       "key": "Frostarm Lawachurl",
